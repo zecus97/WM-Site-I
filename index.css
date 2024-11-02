@@ -14,7 +14,7 @@ main {
     display: grid;
     grid-template-rows: auto 1fr;
     height: 60rem;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/image1.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/WM-Site-I/images/image1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -207,7 +207,7 @@ border-radius: 12px;
     display: grid;
     grid-template-rows: auto 1fr;
     height: 38rem;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/images/a3b24afe0eec76329b6e3be39c2c6897.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/WM-Site-I/images/a3b24afe0eec76329b6e3be39c2c6897.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -311,7 +311,7 @@ padding: 5rem;
     display: grid;
     grid-template-rows: auto 1fr;
     height: 33rem;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/images/s5img.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/WM-Site-I/images/s5img.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -728,7 +728,7 @@ footer{
 @media (max-width: 1024px) {
     main{
         height: 50rem;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/image1.jpg');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/WM-Site-I/images/image1.jpg');
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -851,7 +851,7 @@ footer{
         }
         #section-three{
             height: 20rem;
-            background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/images/a3b24afe0eec76329b6e3be39c2c6897.png');
+            background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/WM-Site-I/images/a3b24afe0eec76329b6e3be39c2c6897.png');
             background-repeat: no-repeat;
             background-position: center center;
             background-size: cover;
